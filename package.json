@@ -1,0 +1,25 @@
+{
+  "name": "ilovemycity-jade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmad-Ejaz/ilovemycity-UsingJADE.git"
+  },
+  "keywords": [],
+  "author": "Mohd Ejaz Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmad-Ejaz/ilovemycity-UsingJADE/issues"
+  },
+  "homepage": "https://github.com/Ahmad-Ejaz/ilovemycity-UsingJADE.git",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0"
+  }
+}
